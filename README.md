@@ -330,7 +330,7 @@ Immediately after this change, the tunnel established a successful WireGuard han
 
 ## Full Documentation
 
-The complete project writeup including extended troubleshooting notes and full environment context is available in the [Project Cerberus Notion workspace](https://www.notion.so/2b4fe4fa7fd38083935bfe52e0a8b899).
+The complete project writeup including extended troubleshooting notes and full environment context is available in the [Project Cerberus Notion workspace](https://dent-trampoline-c53.notion.site/Project-Cerberus-Public-Portfolio-351fe4fa7fd3816384c5d06cabbc1a9d?source=copy_link).
 
 ---
 
